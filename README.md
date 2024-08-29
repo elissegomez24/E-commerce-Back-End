@@ -22,7 +22,7 @@ This project is a back-end application for an e-commerce platform. It uses Expre
 2. Navigate to the project directory: cd ecommerce-backend
 3. Install the necessary dependencies: npm install
 4. Set up your PostgreSQL database and configure the database connection in the .env file:
-5. Run the database migrations and seed the database: npm run seed
+5. Run the database migrations and seed the database: node seeds/index.js
 6. Start the server: npm start
 
 - The server will start on http://localhost:3001.
@@ -74,6 +74,10 @@ This project is a back-end application for an e-commerce platform. It uses Expre
 5. Open a pull request.
 
 ## Screenshots
+
+![E-commerce-Back-End/images/Insomnia1.png](images/Insomnia1.png)
+![E-commerce-Back-End/images/Insomnia2.png](images/Insomnia2.png)
+![E-commerce-Back-End/images/Insomnia3.png](images/Insomnia3.png)
 
 ## Deployment
 
