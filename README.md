@@ -13,7 +13,7 @@ This project is a back-end application for an e-commerce platform. It uses Expre
 - [Models](#models)
 - [Contributing](#contributing)
 - [Screenshots](#screenshots)
-- [Deployment](#deployment)
+- [Walkthrough Video](#walkthrough-video)
 - [License](#license)
 
 ## Installation
@@ -79,7 +79,9 @@ This project is a back-end application for an e-commerce platform. It uses Expre
 ![E-commerce-Back-End/images/Insomnia2.png](images/Insomnia2.png)
 ![E-commerce-Back-End/images/Insomnia3.png](images/Insomnia3.png)
 
-## Deployment
+## Walkthrough Video 
+
+https://drive.google.com/file/d/1uBizWgS5PZ_LcEqddjWeZjmqNLs7CthO/view 
 
 ## License
 
